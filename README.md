@@ -1,16 +1,13 @@
-### Hi there 👋
+### Howdy 👋
 
-<!--
-**izzygld/izzygld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web designer and developer. 
 
-Here are some ideas to get you started:
+As a front end developer, my passion and love is to creating beautiful and easy to read web pages. With the world proceeding at such an alarming rate. the demand for dynamic and next generation website building platform is at a high, especially when it will be used by millions of people around the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a Senior Frontend Developer at OU.
+
+Specialties: VueJs, GraphQL, Wordpress (<a href="https://github.com/wp-graphql">wp-graghql</a> :heart:), JavaScript, HTML, CSS.
+
+Moto: Always gets the job done!
+
+<a href="http://izzygld.com/">Click to view some of my work</a>
