@@ -13,7 +13,6 @@ Moto: Always gets the job done!
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/izzygld)
 
 <img align="left" alt="izzygld's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzygld&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img align="right" alt="izzygld's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izzygld&show_icons=true&hide_border=true" />
 
 
 
