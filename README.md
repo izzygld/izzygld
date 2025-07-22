@@ -8,7 +8,7 @@ Specialties: VueJs, GraphQL, Wordpress (<a href="https://github.com/wp-graphql">
 
 Moto: Always gets the job done!
 
-<a href="http://izzygld.com/">Click to view some of my work</a>
+<a href="https://izzygold.org/">Click to view some of my work</a>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/izzygld)
 
